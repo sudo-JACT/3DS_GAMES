@@ -1,0 +1,14 @@
+---
+Language: Cpp
+BasedOnStyle: Google
+# Questa è la riga magica:
+AllowShortFunctionsOnASingleLine: None
+IndentWidth: 4
+
+MaxEmptyLinesToKeep: 2
+KeepEmptyLinesAtTheStartOfBlocks: true
+
+# Questa impedisce di compattare troppo dopo le chiusure:
+KeepEmptyLinesAtEOF: true
+# Forza il formattatore a rispettare le righe vuote che metti tu:
+SeparateDefinitionBlocks: Leave

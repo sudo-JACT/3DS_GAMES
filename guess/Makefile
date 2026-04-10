@@ -40,9 +40,9 @@ GRAPHICS	:=	gfx
 GFXBUILD	:=	$(BUILD)
 #ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
-APP_TITLE       := TEST1
+APP_TITLE       := GUESS
 APP_AUTHOR      := 1MD0NK3Y
-APP_DESCRIPTION := Primo test 3ds 
+APP_DESCRIPTION := Simple guess game 
 
 #---------------------------------------------------------------------------------
 # options for code generation
